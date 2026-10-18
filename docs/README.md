@@ -30,3 +30,31 @@ Los endpoints permiten solicitar información específica a la API.
 
 Documentar las rutas principales que se utilizarán para obtener información de Pokémon.
 
+
+
+
+
+\## Funcionalidades del proyecto
+
+
+
+El proyecto permitirá consultar y organizar información de Pokémon mediante PokeAPI.
+
+
+
+\### Funcionalidades principales
+
+\- Buscar Pokémon por nombre o identificador.
+
+\- Consultar sus características.
+
+\- Obtener la dirección de su imagen.
+
+\- Mostrar información básica de cada Pokémon.
+
+
+
+\### Objetivo
+
+Definir las funcionalidades principales que se implementarán durante el desarrollo del proyecto.
+
