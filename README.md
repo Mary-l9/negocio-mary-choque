@@ -45,5 +45,11 @@ Desarrollar un proyecto que permita consultar y organizar información de Pokém
 
 \### Control de versiones
 
-El proyecto utiliza Git y GitHub para gestionar los cambios mediante ramas feature y Pull Requests.
+El trabajo se desarrolla mediante ramas feature y cada cambio se revisa antes de incorporarse a main.
+
+
+
+\### Estrategia de trabajo
+
+Cada funcionalidad se desarrolla en una rama independiente y se integra mediante un Pull Request.
 
