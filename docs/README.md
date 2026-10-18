@@ -58,3 +58,31 @@ El proyecto permitirá consultar y organizar información de Pokémon mediante P
 
 Definir las funcionalidades principales que se implementarán durante el desarrollo del proyecto.
 
+
+
+
+
+\## Pruebas y verificación
+
+
+
+Las pruebas permitirán comprobar que las consultas a PokeAPI devuelvan información correctamente.
+
+
+
+\### Casos de prueba
+
+\- Consultar un Pokémon existente, como Pikachu.
+
+\- Verificar que la respuesta incluya su nombre.
+
+\- Comprobar que se obtenga un identificador.
+
+\- Revisar el comportamiento cuando se consulta un Pokémon inexistente.
+
+
+
+\### Objetivo
+
+Verificar el funcionamiento de las consultas y detectar posibles errores durante el desarrollo.
+
